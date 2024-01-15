@@ -13,4 +13,30 @@
     border-radius: 50%;
     height: 40px;
     width: 40px;
+    text-align: center;
 }
+
+.margin-icon {
+    margin-top: 10px;
+}
+
+.jumbotron {
+    background-color: #967df3;
+    padding-left: 200px;
+    padding-right: 250px;
+}
+
+.px-5 {
+    padding-top: 80px;
+    padding-left: 100px !important;
+}
+
+.under-icon {
+    background-color: rgb(252, 238, 192);
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    color: rgb(128, 56, 56);
+    text-align: center;
+}
+
